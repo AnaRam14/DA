@@ -13,6 +13,10 @@ https://github.com/AnaRam14/DA/blob/main/PR1.xlsx
 **Проект №2**\
 Моделирование изменения балансов студентов
 
+https://github.com/AnaRam14/DA/blob/main/PR2.docx
+
+https://github.com/AnaRam14/DA/blob/main/PR2.xlsx
+
 ## Контактная информация
 - Email: a.tishkina@bk.ru
 
